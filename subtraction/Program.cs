@@ -2,7 +2,7 @@
 using System;
 public class funcexer3
 {
-    public static int Sum(int num1, int num2)
+    public static int subtraction(int num1, int num2)
     {
         int subtraction;
         subtraction = num1 - num2;
@@ -17,6 +17,6 @@ public class funcexer3
         int n1 = Convert.ToInt32(Console.ReadLine());
         Console.Write("Enter another number: ");
         int n2 = Convert.ToInt32(Console.ReadLine());
-        Console.WriteLine("\nThe sum of two numbers is : {0} \n", Sum(n1, n2));
+        Console.WriteLine("\nThe sum of two numbers is : {0} \n", subtraction(n1, n2));
     }
 }
