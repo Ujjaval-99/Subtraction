@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Promact Trainning\subtraction\subtraction\bin\Debug\net7.0\subtraction.exe
+C:\Users\admin\Desktop\Promact Trainning\subtraction\subtraction\bin\Debug\net7.0\subtraction.deps.json
+C:\Users\admin\Desktop\Promact Trainning\subtraction\subtraction\bin\Debug\net7.0\subtraction.runtimeconfig.json
+C:\Users\admin\Desktop\Promact Trainning\subtraction\subtraction\bin\Debug\net7.0\subtraction.dll
+C:\Users\admin\Desktop\Promact Trainning\subtraction\subtraction\bin\Debug\net7.0\subtraction.pdb
+C:\Users\admin\Desktop\Promact Trainning\subtraction\subtraction\obj\Debug\net7.0\subtraction.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Promact Trainning\subtraction\subtraction\obj\Debug\net7.0\subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Promact Trainning\subtraction\subtraction\obj\Debug\net7.0\subtraction.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Promact Trainning\subtraction\subtraction\obj\Debug\net7.0\subtraction.AssemblyInfo.cs
+C:\Users\admin\Desktop\Promact Trainning\subtraction\subtraction\obj\Debug\net7.0\subtraction.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Promact Trainning\subtraction\subtraction\obj\Debug\net7.0\subtraction.dll
+C:\Users\admin\Desktop\Promact Trainning\subtraction\subtraction\obj\Debug\net7.0\refint\subtraction.dll
+C:\Users\admin\Desktop\Promact Trainning\subtraction\subtraction\obj\Debug\net7.0\subtraction.pdb
+C:\Users\admin\Desktop\Promact Trainning\subtraction\subtraction\obj\Debug\net7.0\subtraction.genruntimeconfig.cache
+C:\Users\admin\Desktop\Promact Trainning\subtraction\subtraction\obj\Debug\net7.0\ref\subtraction.dll
